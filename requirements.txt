@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+langchain
+langchain-community
+langchain-groq
+qdrant-client
+sentence-transformers
+rank-bm25
+loguru
+slowapi
+python-dotenv
+pytest
+httpx
+pypdf

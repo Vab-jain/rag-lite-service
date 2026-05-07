@@ -1,1 +1,34 @@
 .env
+playground/*
+walkthrough.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Data and Models
+data/
+qdrant_storage/
+*.pkl
+
+# Testing
+.pytest_cache/
+.coverage
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
